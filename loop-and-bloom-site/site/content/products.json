@@ -1,0 +1,11 @@
+{
+  "products": [
+    {"name": "Sunflower Bouquet", "category": "bouquets", "description": "A full hand-crocheted sunflower arrangement that never wilts.", "price": "From Rs. 1,800", "image": ""},
+    {"name": "Tulip Bouquet", "category": "bouquets", "description": "Soft tulip stems in your choice of colors, single or bunched.", "price": "From Rs. 1,500", "image": ""},
+    {"name": "Keychain", "category": "accessories", "description": "A small crochet charm to clip onto bags, keys, or gifts.", "price": "From Rs. 350", "image": ""},
+    {"name": "Hair Accessories", "category": "accessories", "description": "Clips, bows and bands finished with a delicate stitch.", "price": "From Rs. 450", "image": ""},
+    {"name": "Paranda", "category": "accessories", "description": "Traditional hand-braided hair tassel, made the classic way.", "price": "From Rs. 1,200", "image": ""},
+    {"name": "Bandana", "category": "home", "description": "A soft crochet bandana sized for your favourite pet.", "price": "From Rs. 700", "image": ""},
+    {"name": "Table Runner", "category": "home", "description": "A handworked table runner that adds texture to any table.", "price": "From Rs. 2,200", "image": ""}
+  ]
+}
